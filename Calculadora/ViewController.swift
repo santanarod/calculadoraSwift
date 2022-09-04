@@ -3,7 +3,14 @@
 //  Calculadora
 //
 //  Created by Allan Rodrigo Santana on 03/09/22.
-//
+//  Created by Osmair Luis Pereira on 03/09/22.
+//  git@github.com:santanarod/calculadoraSwift.git
+
+//Curso In-Company Bradesco - Visionnaire - PUCPR | Desenvolvimento de Software iOS
+//Big Idea: Desenvolvimento de Apps
+//• Essential Question: Como consolidar o conhecimento da primeira aula?
+//• Challenge: Desenvolver uma calculadora simples
+
 
 import UIKit
 
