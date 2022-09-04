@@ -106,21 +106,4 @@ class ViewController: UIViewController {
             return n1 + n2
         }
     }
-    
-    func dividir(n1: Double, n2: Double) -> Double {
-        return n1 / n2
-    }
-    
-    func multiplicar(n1: Double, n2: Double) -> Double {
-        return n1 * n2
-    }
-    
-    func somar(n1: Double, n2: Double) -> Double {
-        return n1 + n2
-    }
-    
-    func subtrair(n1: Double, n2: Double) -> Double {
-        return n1 - n2
-    }
-    
 }
