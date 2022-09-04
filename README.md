@@ -2,7 +2,7 @@
 Calculadora simples em Swift
 
 Curso In-Company Bradesco - Visionnaire - PUCPR | Desenvolvimento de Software iOS
-Big Idea: Desenvolvimento de Apps
+• Big Idea: Desenvolvimento de Apps
 • Essential Question: Como consolidar o conhecimento da primeira aula?
 • Challenge: Desenvolver uma calculadora simples
 
